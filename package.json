@@ -1,0 +1,30 @@
+{
+  "name": "project5",
+  "version": "1.0.0",
+  "description": "Game of Set Reloaded",
+  "main": "TestPlayer.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse3901-2020au-1730/SS-PBJ-Project-5.git"
+  },
+  "author": "S.S.PBJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cse3901-2020au-1730/SS-PBJ-Project-5/issues"
+  },
+  "homepage": "https://github.com/cse3901-2020au-1730/SS-PBJ-Project-5#readme",
+  "dependencies": {
+    "minitest": "git://github.com/ysbaddaden/minitest-js.git"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.1",
+    "cypress": "^5.6.0",
+    "jasmine": "^3.6.2",
+    "jest": "^26.6.1",
+    "mocha": "^8.2.0"
+  }
+}
